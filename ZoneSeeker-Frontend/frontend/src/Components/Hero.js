@@ -7,9 +7,9 @@ export default function Hero(props){
   >
     <div className="mx-auto max-w-xl text-center">
       <h1 className="text-3xl font-extrabold sm:text-5xl">
-          Locate WiFi Connections
-        <strong className="font-extrabold text-blue-700 sm:block">
-          Simple, Fast, and Effective.
+      Locate WiFi Connections 
+        <strong  className="font-extrabold text-blue-700 sm:block">
+              A Different Approach
         </strong>
       </h1>
 
